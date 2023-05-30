@@ -71,7 +71,8 @@
                 <respStmt>
                     <resp>Überlassung elektronischer Daten (für
                         <ref target="#ohne_Verweis_P_Math_">P.Math.</ref>,
-                        <ref target="#ohne_Verweis_P_Nekr">P.Nekr.</ref>)
+                        <ref target="#b96094">P.Nekr.</ref>,
+                        <ref target="#ohne_Verweis_O_NYU">O.NYU</ref>)
                     </resp>
                     <persName xml:id="bagnall_r">Roger S. Bagnall</persName>
                 </respStmt>
@@ -114,6 +115,12 @@
                 </respStmt>
                 <respStmt>
                     <resp>Überlassung elektronischer Daten (für
+                        <ref target="#ohne_Verweis_P_Aegyptus__Cent">P.Aegyptus Cent.</ref>)
+                    </resp>
+                    <persName xml:id="casanova_g">Gerardo Casanova</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Überlassung elektronischer Daten (für
                         <ref target="#b19060">P.Count</ref>,
                         <ref target="#ohne_Verweis_P_Petrie_Kleon">P.Petrie Kleon</ref>)
                     </resp>
@@ -134,8 +141,9 @@
                 <respStmt>
                     <resp>Überlassung elektronischer Daten (für
                         <ref target="#b18535">O.Krok.</ref>,
-                        <ref target="#b81797">O.Did</ref>)
-                        <ref target="#ohne_Verweis_P_Yale_04">P.Yale IV</ref>)
+                        <ref target="#b81797">O.Did</ref>,
+                        <ref target="#ohne_Verweis_P_Yale_04">P.Yale IV</ref>,
+                        <ref target="#ohne_Verweis_O_Blem">O.Blem.</ref>)
                     </resp>
                     <persName xml:id="cuvigny_h">Hélène Cuvigny</persName>
                 </respStmt>
@@ -201,7 +209,8 @@
                 </respStmt>
                 <respStmt>
                     <resp>Überlassung elektronischer Daten (für
-                        <ref target="#b20909">BL XII</ref>)
+                        <ref target="#b20909">BL XII</ref>,
+                        <ref target="#ohne_Verweis_P_Leid__Inst__02">P.Leid. Inst. 02</ref>)
                     </resp>
                     <persName xml:id="hoogendijk_faj">Francisca A. J. Hoogendijk</persName>
                 </respStmt>
@@ -209,6 +218,7 @@
                     <resp>Überlassung elektronischer Daten (für
                         <ref target="#b15271">P.Louvre I</ref>,
                         <ref target="#b18650">P.Louvre II</ref>,
+                        <ref target="#ohne_Verweis_P_Louvre__03">P.Louvre 03</ref>,
                         <ref target="#b67807">SB XXI</ref>,
                         <ref target="#b17117">SB XXIII</ref>,
                         <ref target="#b84774">SB XXIX</ref>)
@@ -329,7 +339,8 @@
                 </respStmt>
                 <respStmt>
                     <resp>Überlassung elektronischer Daten (für
-                        <ref target="#b16831">CPR XXII</ref>)
+                        <ref target="#b16831">CPR XXII</ref>,
+                        <ref target="#ohne_Verweis_CPR__36">CPR 36</ref>)
                     </resp>
                     <persName xml:id="morelli_f">Federico Morelli</persName>
                 </respStmt>
@@ -412,7 +423,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Überlassung elektronischer Daten (für
-                        <ref target="#ohne_Verweis_P.Erbstreit">P.Erbstreit</ref>)
+                        <ref target="#b96314">P.Erbstreit</ref>)
                     </resp>
                     <persName xml:id="vandorpe_k">Katelijn Vandorpe</persName>
                 </respStmt>
@@ -421,6 +432,12 @@
                         <ref target="#b86506">BASP 43-50</ref>)
                     </resp>
                     <persName xml:id="vanminnen_p">Peter van Minnen</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Überlassung elektronischer Daten (für
+                        <ref target="#ohne_Verweis_P_Köln__Sarapion">P.Köln Sarapion</ref>)
+                    </resp>
+                    <persName xml:id="vecchiato_r">Riccardo Vecchiato</persName>
                 </respStmt>
                 <respStmt>
                     <resp>Überlassung elektronischer Daten (für
